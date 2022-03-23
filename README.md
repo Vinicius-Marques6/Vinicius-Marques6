@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Correio-Elegante
-- 🌱 I’m currently learning ReactJS and React Native
-- 🤔 I’m looking for help with Node.Js and MongoDB
+- 🔭 I’m currently working on my final paper
+- 🌱 I’m currently learning C# and improving my 3d modeling skills.
+- 🤔 I’m looking for help with Unity
