@@ -1,5 +1,5 @@
-### Hi there 👋
+### Oii, sou o Vinícius Diniz 👋
 
-- 🔭 I’m currently working on my final paper
-- 🌱 I’m currently learning C# and improving my 3d modeling skills.
-- 🤔 I’m looking for help with Unity
+- 🔭 Estou estudando para trabalhar com back-end
+- 🌱 Atualmente praticando C# e Ruby
+- 🤔 Entusiasta em criação de jogos na Unity
