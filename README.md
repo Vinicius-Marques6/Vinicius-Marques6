@@ -1,10 +1,7 @@
-### Oii, sou o Vinícius, mas pode me chamar de Vica 👋
+Hii!! I'm Vinícius, but everyone knows me by Vica 😅
 
-- 🔭 Estou estudando para trabalhar com back-end
-- 🤔 Entusiasta em criação de jogos na Unity
+I love games, especially the way they are made, and the way their creators express their feelings just like art. I love the idea of being able to express art through computers, but beyond that, I want to be able to help or create open source tools that enable other people to do the same. I have also recently discovered a love for sharing my knowledge with others.
 
-<div align="center">
-  <a href="https://github.com/vicarillous">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vicarillous&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicarillous&layout=compact&langs_count=7&theme=swift"/>
-</div>
+I have experience in Web development, both Front-end and Back-end, and game development 🎮. Outside of the programming area, I enjoy taking pictures or create my own ideas through 3D modeling.
+
+I am currently a Computer Science student at UFMS and also working at UFMS as a federal public servant.
