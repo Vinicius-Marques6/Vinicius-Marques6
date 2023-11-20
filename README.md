@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Currently a CS student at UFMS and aspiring software developer 💻.<br>🔭 I'm currently working at UFMS.<br>📚 Trying to find myself in some area to specialize in, but with a great passion for creating games. <br>🚧 Currently trying to contribute on open-source repositories.<br>🎯 Goals: Publish my first game.</p>
+<p align="left">Currently a CS student at UFMS and aspiring software developer 💻.<br>🔭 I'm currently working at UFMS.<br>📚 Trying to find myself in some area to specialize in, but with a great passion for creating games. <br>🚧 Currently trying to contribute on open-source repositories.<br>🎯 Goals: Publish my own game.</p>
 
 ###
 
