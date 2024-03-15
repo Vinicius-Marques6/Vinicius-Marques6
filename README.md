@@ -44,12 +44,6 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="26" alt="blender logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="26" alt="unity logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="26" alt="jetbrains logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="26" alt="pycharm logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="26" alt="webstorm logo"  />
 </div>
 
 ###
