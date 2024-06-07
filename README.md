@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="[https://i.postimg.cc/Wp7T6Qd1/git-header.png](https://raw.githubusercontent.com/Vinicius-Marques6/Vinicius-Marques6/main/git-header.png)"  />
-</div>
-
 ###
 
 <h2 align="left">About me:</h2>
@@ -47,6 +43,9 @@
 </div>
 
 ###
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Vinicius-Marques6/Vinicius-Marques6/main/pattern1.png');]{x0000}$}
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Marques6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
