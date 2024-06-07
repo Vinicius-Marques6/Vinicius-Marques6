@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vinicius-Marques6/Vinicius-Marques6/main/git-header.png"  />
+</div>
+
 ###
 
 <h2 align="left">About me:</h2>
